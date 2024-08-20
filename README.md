@@ -2,7 +2,7 @@
 
 레포지토리 디렉토리 구조
 ```sh
-AIFFEL_quest_cr
+AIFFEL_quest_rs
 /
 ├── Exploration/
 │   ├── Ex_01/
@@ -13,6 +13,11 @@ AIFFEL_quest_cr
 │   └── README.md
 ⋮
 ├── GoingDeeper/
+│   ├── GD_01/
+│   ⋮
+│   ├── GD_09/
+│   │   ├── .ipynb
+│   │   └── README.md
 │   └── README.md
 ⋮
 ├── MainQuest/
@@ -23,5 +28,6 @@ AIFFEL_quest_cr
 │   │   └── README.md
 │   └── README.md
 │
+├── .gitignore
 └── README.md
 ```
