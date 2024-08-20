@@ -31,3 +31,6 @@ AIFFEL_quest_rs
 ├── .gitignore
 └── README.md
 ```
+
+### Hi there 👋
+** 수연 **
