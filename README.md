@@ -4,19 +4,24 @@
 ```sh
 AIFFEL_quest_cr
 /
-├── MainQuest
-│   ├── Quest01
+├── Exploration/
+│   ├── Ex_01/
+│   ⋮
+│   ├── Ex_07/
 │   │   ├── .ipynb
 │   │   └── README.md
-  ⋮
-│   └── Quest08
-│       ├── .ipynb
-│       └── README.md
+│   └── README.md
 ⋮
-└── Exploration
-    ├── Ex01
-    ⋮
-    └── Ex07
-        ├── .ipynb
-        └── README.md
+├── GoingDeeper/
+│   └── README.md
+⋮
+├── MainQuest/
+│   ├── Quest_01/
+│   ⋮
+│   ├── Quest_05/
+│   │   ├── .ipynb
+│   │   └── README.md
+│   └── README.md
+│
+└── README.md
 ```
