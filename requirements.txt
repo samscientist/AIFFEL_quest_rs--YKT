@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+scikit-learn
+ipykernel
+missingno
+xgboost==1.4.2
+lightgbm
+opencv-python
+dlib
