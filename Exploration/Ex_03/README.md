@@ -7,7 +7,8 @@
 - [ O ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
    
     
-    ![image](https://github.com/user-attachments/assets/f9d93d2b-fbb5-45cd-82b7-b33335bc9448)
+    ![image](https://github.com/user-attachments/assets/55263eb2-e323-4aee-a79d-5edbfd00dfc4)
+
 
      단순히 고양이 수염만 붙이는게 아니라 landmark 점과 dectection 경계처럼 불필요한 부분도 제거완료함 
         
@@ -15,7 +16,8 @@
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
 
 
-  ![image](https://github.com/user-attachments/assets/35bdef17-e115-4fd0-a15a-443d5fb15178)
+ ![image](https://github.com/user-attachments/assets/cee9eee7-92ed-4094-a821-09a952274b40)
+
 
 
   코드의 refined_x, refined_y 의 좌표가 주석의 좌표와  맞지 않아 한번에 이해하기 어려웠습니다. 
@@ -41,7 +43,8 @@
 - [ O ]  **5. 코드가 간결하고 효율적인가요?**
 
 
- ![image](https://github.com/user-attachments/assets/32e1a05a-640c-4a66-8fe4-ddb0134b4a0c)
+ ![image](https://github.com/user-attachments/assets/e8f85cdd-3c38-4303-a286-20fdda31cb92)
+
 
  np.where 조건문 안에서 bool 연산자 !=0을 사용하여 따로 알파 체널을 생성하지 않고 콧수염 흰색 배경을 없앤 부분이 코드을 간결하게 작성하려고 많은 노력을 했다는 것이 보입니다. 
 
