@@ -1,4 +1,4 @@
-name: base
+name: aiffel_lms
 channels:
   - conda-forge
   - defaults
