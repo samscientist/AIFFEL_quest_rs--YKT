@@ -1,12 +1,14 @@
+ipykernel
 numpy
 pandas
 matplotlib
 seaborn
 tensorflow
+keras
 scikit-learn
-ipykernel
 missingno
 xgboost==1.4.2
 lightgbm
 opencv-python
 dlib
+pixellib==0.7.1
