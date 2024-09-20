@@ -2,3 +2,5 @@
 
 models/
 /_img-vault/
+
+.ipynb_checkpoints
